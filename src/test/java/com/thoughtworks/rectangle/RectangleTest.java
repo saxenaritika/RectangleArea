@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 class RectangleTest {
 
     @Test
-    void shouldReturnAreaWhenLengthAndBreadthArePositive() {
+    void shouldReturnAreaWhenLengthAndBreadthArePositivee() {
         Rectangle rectangle = new Rectangle(10, 10);
         int area = rectangle.area();
         assertThat(area, is(equalTo(100)));
