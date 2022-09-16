@@ -11,6 +11,5 @@ class RectangleTest {
         Rectangle rectangle = new Rectangle(10, 10);
         int area = rectangle.area();
         assertThat(area, is(equalTo(100)));
-
     }
 }
