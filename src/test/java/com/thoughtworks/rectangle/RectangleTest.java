@@ -12,6 +12,6 @@ class RectangleTest {
     void shouldReturnAreaWhenLengthAndBreadthArePositive() {
         Rectangle rectangle = new Rectangle(10, 10);
         int area = rectangle.area();
-        assertThat(area, is(100));
+        assertEquals(100,area);
     }
 }
