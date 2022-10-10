@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.rectangle.RectangleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-10T11:13:14" hostname="Ritikas-MacBook-Pro.local" time="0.263">
+  <properties/>
+  <testcase name="shouldReturnWhenLengthAndBreadthArePositive()" classname="com.thoughtworks.rectangle.RectangleTest" time="0.263"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
